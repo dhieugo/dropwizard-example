@@ -1,4 +1,4 @@
-package com.edgeworks.singerapp;
+package com.dhieugo.helloworld;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.dropwizard.Configuration;

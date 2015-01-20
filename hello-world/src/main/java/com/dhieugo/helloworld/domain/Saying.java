@@ -1,4 +1,4 @@
-package com.edgeworks.singerapp.domain;
+package com.dhieugo.helloworld.domain;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import org.hibernate.validator.constraints.Length;

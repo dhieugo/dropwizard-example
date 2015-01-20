@@ -1,7 +1,7 @@
-package com.edgeworks.singerapp.resources;
+package com.dhieugo.helloworld.resources;
 
 import com.codahale.metrics.annotation.Timed;
-import com.edgeworks.singerapp.domain.Saying;
+import com.dhieugo.helloworld.domain.Saying;
 import com.google.common.base.Optional;
 
 import javax.ws.rs.GET;

@@ -1,7 +1,8 @@
-package com.edgeworks.singerapp;
+package com.dhieugo.helloworld;
 
-import com.edgeworks.singerapp.helth.TemplateHealthCheck;
-import com.edgeworks.singerapp.resources.HelloWorldResource;
+
+import com.dhieugo.helloworld.helth.TemplateHealthCheck;
+import com.dhieugo.helloworld.resources.HelloWorldResource;
 import io.dropwizard.Application;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;

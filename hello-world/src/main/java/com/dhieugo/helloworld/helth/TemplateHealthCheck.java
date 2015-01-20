@@ -1,4 +1,4 @@
-package com.edgeworks.singerapp.helth;
+package com.dhieugo.helloworld.helth;
 
 import com.codahale.metrics.health.HealthCheck;
 
